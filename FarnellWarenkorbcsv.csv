@@ -1,0 +1,19 @@
+﻿Nr.,Best.-Nr.   ,RoHS-konform?,Ihre Bestellnummer,Hinweise,Menge,Hersteller-Teilenr. ,Herstellername,Hersteller / Beschreibung,Verfügbarkeit,Stückpreis,Positionspreis,Rabattpreis
+1,2059601,RoHS: Y-EX / PHTHALATE: YES,,,10.0,"ERJ3GEYJ102V",PANASONIC,"PANASONIC  Chipwiderstand, Oberflächenmontage, Dickschicht, 0603 [Metrisch 1608], 1 kohm, Baureihe ERJ3G, 75 V",151696,0.0579,0.58,,
+2,2059583,RoHS: Y-EX / PHTHALATE: YES,,,10.0,"ERJ3GEYJ221V",PANASONIC,"PANASONIC  Chipwiderstand, Oberflächenmontage, Dickschicht, 0603 [Metrisch 1608], 220 ohm, Baureihe ERJ3G",11262,0.0565,0.57,,
+3,2059627,RoHS: Y-EX / PHTHALATE: YES,,,20.0,"ERJ3GEYJ103V",PANASONIC,"PANASONIC  Chipwiderstand, Oberflächenmontage, Dickschicht, 0603 [Metrisch 1608], 10 kohm, Baureihe ERJ3G",343293,0.0551,1.10,,
+4,3616198,RoHS: YES / PHTHALATE: YES,,,100.0,"PHR-3",JST (JAPAN SOLDERLESS TERMINALS),"JST (JAPAN SOLDERLESS TERMINALS)  Steckverbindergehäuse, Baureihe PH, Buchse, 3 -polig, 2 mm, Crimpkontakte der Baureihen BPH und SPH",113015,0.0389,3.89,,
+5,9491910,RoHS: YES / PHTHALATE: YES,,,100.0,"S3B-PH-K-S (LF)(SN)",JST (JAPAN SOLDERLESS TERMINALS),"JST (JAPAN SOLDERLESS TERMINALS)  Stiftleiste, abgewinkelt, Wire-to-Board, 2 mm, 1 Reihe(n), 3 Kontakt(e)",3933,0.0940,9.40,,
+6,1671245,RoHS: YES / PHTHALATE: YES,,,300.0,"SPH-002T-P0.5S",JST (JAPAN SOLDERLESS TERMINALS),"JST (JAPAN SOLDERLESS TERMINALS)  Kontakt, Baureihe PH, Buchsenkontakt, Crimpanschluss, 24 AWG, Verzinnte Kontakte",155877,0.0244,7.32,,
+7,2322071,RoHS: YES / PHTHALATE: YES,,,50.0,"150060RS75000",WURTH ELEKTRONIK,"WURTH ELEKTRONIK  LED, Rot, Oberflächenmontage, 603, 30 mA, 2 V, 625 nm",7565,0.1430,7.15,,
+8,2303104,RoHS: Y-EX / PHTHALATE: YES,,,100.0,"ERJ3EKF3300V",PANASONIC,"PANASONIC  Chipwiderstand, Oberflächenmontage, Dickschicht, 0603 [Metrisch 1608], 330 ohm, Baureihe ERJ3E",15098,0.0365,3.65,,
+9,2210887,RoHS: YES / PHTHALATE: YES,,,100.0,"CGA3E2X8R1E104K080AA",TDK,"TDK  Keramikvielschichtkondensator, SMD, 0.1 µF, 25 V, 0603 [Metrisch 1608], ± 10%, X8R, Baureihe CGA",78194,0.0715,7.15,,
+10,1470066,RoHS: YES / PHTHALATE: YES,,,10.0,"TCRT5000",VISHAY,"VISHAY  Reflexlichtschranke, Fototransistor, Durchsteckmontage, 15mm, 60mA, 5Vr, 1.25Vf",1556,1.0700,10.70,,
+11,1141474,RoHS: YES / PHTHALATE: YES,,,10.0,"TS53YL103MR10",VISHAY,"VISHAY  Trimmpotentiometer, Eingängig, Cermet, Einstellung oben, 10 kohm, Oberflächenmontage",5750,1.0600,10.60,,
+12,2857786,RoHS: YES / PHTHALATE: YES,,,5.0,"MCP23017T-E/ML",MICROCHIP,"MICROCHIP  I/O-Erweiterung, 16bit, 1.7 MHz, I2C, 1.8 V, 5.5 V, QFN",3178,1.3400,6.70,,
+
+,,,,,,,Zwischensumme,68.81
+,,,,,,,Warengesamtsumme,68.81
+,,,,,,,Lieferung,0.00
+,,,,,,,USt.,13.07
+,,,,,,,Gesamt,81.88

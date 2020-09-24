@@ -1,0 +1,5 @@
+(fp_lib_table
+  (lib (name MCP23017T-E_ML)(type Legacy)(uri ${KIPRJMOD}/components/MCP23017T-E_ML/KiCad/MCP23017T-E_ML.mod)(options "")(descr ""))
+  (lib (name motherboard)(type KiCad)(uri ${KIPRJMOD}/motherboard.pretty)(options "")(descr ""))
+  (lib (name SN74LVC1G32DRLR)(type Legacy)(uri ${KIPRJMOD}/components/SN74LVC1G32DRLR/KiCad/SN74LVC1G32DRLR.mod)(options "")(descr ""))
+)

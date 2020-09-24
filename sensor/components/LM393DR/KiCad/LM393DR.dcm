@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP LM393DR
+D LM393DR, Dual Comparator Open Collector 1.3us 12 V, 15 V, 18 V, 24 V, 28 V, 3 V, 5 V, 9 V 8-Pin SOIC
+K
+F http://docs-emea.rs-online.com/webdocs/14b2/0900766b814b2f20.pdf
+$ENDCMP
+#
+#End Doc Library

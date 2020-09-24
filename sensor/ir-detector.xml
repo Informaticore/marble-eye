@@ -1,0 +1,434 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="D">
+  <design>
+    <source>C:\Users\Informatic0re\Documents\workspace\ir-detector\sensor\ir-detector.sch</source>
+    <date>07/06/2020 14:44:30</date>
+    <tool>Eeschema (5.1.2)-1</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>ir-detector.sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="Q1">
+      <value>TCRT5000</value>
+      <footprint>ir-detector:TCRT5000</footprint>
+      <datasheet>http://www.vishay.com/docs/83760/tcrt5000.pdf</datasheet>
+      <fields>
+        <field name="Allied Price/Stock">http://www.alliedelec.com/vishay-dale-tcrt5000/R1084611/</field>
+        <field name="Allied_Number">R1084611</field>
+        <field name="Description">VISHAY - TCRT5000. - SENSOR, OPTICAL, TRANSISTOR O/P</field>
+        <field name="Height">6.8</field>
+        <field name="Manufacturer_Name">Vishay</field>
+        <field name="Manufacturer_Part_Number">TCRT5000</field>
+        <field name="Mouser Part Number">782-TCRT5000</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/Vishay-Semiconductors/TCRT5000?qs=glpcD2KT6uaaYldHGIIt5g%3D%3D</field>
+        <field name="RS Part Number">7085017P</field>
+        <field name="RS Price/Stock">http://uk.rs-online.com/web/p/products/7085017P</field>
+      </fields>
+      <libsource lib="TCRT5000" part="TCRT5000" description="VISHAY - TCRT5000. - SENSOR, OPTICAL, TRANSISTOR O/P"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5ED12D01</tstamp>
+    </comp>
+    <comp ref="R2">
+      <value>10k</value>
+      <footprint>Resistors_SMD:R_0603</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5ED16593</tstamp>
+    </comp>
+    <comp ref="R1">
+      <value>220</value>
+      <footprint>Resistors_SMD:R_0603</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5ED170AF</tstamp>
+    </comp>
+    <comp ref="R3">
+      <value>1k</value>
+      <footprint>Resistors_SMD:R_0603</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5ED1BF84</tstamp>
+    </comp>
+    <comp ref="D1">
+      <value>LED</value>
+      <footprint>LEDs:LED_0603</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5ED1E21A</tstamp>
+    </comp>
+    <comp ref="R5">
+      <value>330</value>
+      <footprint>Resistors_SMD:R_0603</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5ED1EB1C</tstamp>
+    </comp>
+    <comp ref="R4">
+      <value>10k</value>
+      <footprint>Resistors_SMD:R_0603</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5ED1F154</tstamp>
+    </comp>
+    <comp ref="C2">
+      <value>104</value>
+      <footprint>Capacitors_SMD:C_0603</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5ED2103C</tstamp>
+    </comp>
+    <comp ref="C1">
+      <value>104</value>
+      <footprint>Capacitors_SMD:C_0603</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5ED262C6</tstamp>
+    </comp>
+    <comp ref="R6">
+      <value>330</value>
+      <footprint>Resistors_SMD:R_0603</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5ED28BA7</tstamp>
+    </comp>
+    <comp ref="D2">
+      <value>LED</value>
+      <footprint>LEDs:LED_0603</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5ED29DB9</tstamp>
+    </comp>
+    <comp ref="VR1">
+      <value>TS53YL_10K_20%TR</value>
+      <footprint>ir-detector:TS53YL204MR10</footprint>
+      <datasheet>https://www.vishay.com/doc?51008</datasheet>
+      <fields>
+        <field name="Arrow Part Number">TS53YL 10K 20%TR</field>
+        <field name="Description">Trimmer Resistors - SMD TS53YL103MR10</field>
+        <field name="Height">2</field>
+        <field name="Manufacturer_Name">Vishay</field>
+        <field name="Manufacturer_Part_Number">TS53YL 10K 20%TR</field>
+        <field name="Mouser Part Number">75-TS53YL10K20%TR</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/Vishay-Sprague/TS53YL-10K-20TR?qs=fbr3QJcAB6rQumgcAWaZQw%3D%3D</field>
+      </fields>
+      <libsource lib="TS53YL_10K" part="TS53YL_10K_20%TR" description="Trimmer Resistors - SMD TS53YL103MR10"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5ED327D9</tstamp>
+    </comp>
+    <comp ref="IC1">
+      <value>LM393DR</value>
+      <footprint>ir-detector:SOIC127P600X175-8N</footprint>
+      <datasheet>http://docs-emea.rs-online.com/webdocs/14b2/0900766b814b2f20.pdf</datasheet>
+      <fields>
+        <field name="Arrow Part Number">LM393DR</field>
+        <field name="Arrow Price/Stock">https://www.arrow.com/en/products/lm393dr/texas-instruments</field>
+        <field name="Description">LM393DR, Dual Comparator Open Collector 1.3us 12 V, 15 V, 18 V, 24 V, 28 V, 3 V, 5 V, 9 V 8-Pin SOIC</field>
+        <field name="Height">1.75</field>
+        <field name="Manufacturer_Name">Texas Instruments</field>
+        <field name="Manufacturer_Part_Number">LM393DR</field>
+        <field name="Mouser Part Number">595-LM393DR</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/Texas-Instruments/LM393DR?qs=8k%2FZSzWMuCP%2FrtMSX0i7pQ%3D%3D</field>
+      </fields>
+      <libsource lib="LM393DR" part="LM393DR" description="LM393DR, Dual Comparator Open Collector 1.3us 12 V, 15 V, 18 V, 24 V, 28 V, 3 V, 5 V, 9 V 8-Pin SOIC"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5ED3BC32</tstamp>
+    </comp>
+    <comp ref="J1">
+      <value>Conn_01x03_Male</value>
+      <footprint>Connectors_JST:JST_PH_S3B-PH-K_03x2.00mm_Angled</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Connector" part="Conn_01x03_Male" description="Generic connector, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5ED398B8</tstamp>
+    </comp>
+    <comp ref="TP1">
+      <value>TestPoint</value>
+      <footprint>Measurement_Points:Measurement_Point_Round-SMD-Pad_Small</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Connector" part="TestPoint" description="test point"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5ED3B130</tstamp>
+    </comp>
+    <comp ref="H1">
+      <value>M2</value>
+      <footprint>Mounting_Holes:MountingHole_2.2mm_M2_Pad_Via</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Mechanical" part="MountingHole" description="Mounting Hole without connection"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5EDD8303</tstamp>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="Connector" part="Conn_01x03_Male">
+      <description>Generic connector, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_1x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_01x03_Male</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+        <pin num="3" name="Pin_3" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector" part="TestPoint">
+      <description>test point</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Pin*</fp>
+        <fp>Test*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">TP</field>
+        <field name="Value">TestPoint</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="C">
+      <description>Unpolarized capacitor</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>C_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">C</field>
+      </fields>
+      <pins>
+        <pin num="1" name="~" type="passive"/>
+        <pin num="2" name="~" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="LED">
+      <description>Light emitting diode</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>LED*</fp>
+        <fp>LED_SMD:*</fp>
+        <fp>LED_THT:*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">LED</field>
+      </fields>
+      <pins>
+        <pin num="1" name="K" type="passive"/>
+        <pin num="2" name="A" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="R">
+      <description>Resistor</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>R_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">R</field>
+      </fields>
+      <pins>
+        <pin num="1" name="~" type="passive"/>
+        <pin num="2" name="~" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="LM393DR" part="LM393DR">
+      <description>LM393DR, Dual Comparator Open Collector 1.3us 12 V, 15 V, 18 V, 24 V, 28 V, 3 V, 5 V, 9 V 8-Pin SOIC</description>
+      <docs>http://docs-emea.rs-online.com/webdocs/14b2/0900766b814b2f20.pdf</docs>
+      <fields>
+        <field name="Reference">IC</field>
+        <field name="Value">LM393DR</field>
+        <field name="Footprint">SOIC127P600X175-8N</field>
+        <field name="Datasheet">http://docs-emea.rs-online.com/webdocs/14b2/0900766b814b2f20.pdf</field>
+        <field name="Description">LM393DR, Dual Comparator Open Collector 1.3us 12 V, 15 V, 18 V, 24 V, 28 V, 3 V, 5 V, 9 V 8-Pin SOIC</field>
+        <field name="Height">1.75</field>
+        <field name="Manufacturer_Name">Texas Instruments</field>
+        <field name="Manufacturer_Part_Number">LM393DR</field>
+        <field name="Arrow Part Number">LM393DR</field>
+        <field name="Arrow Price/Stock">https://www.arrow.com/en/products/lm393dr/texas-instruments</field>
+        <field name="Mouser Part Number">595-LM393DR</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/Texas-Instruments/LM393DR?qs=8k%2FZSzWMuCP%2FrtMSX0i7pQ%3D%3D</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1OUT" type="output"/>
+        <pin num="2" name="1IN-" type="input"/>
+        <pin num="3" name="1IN+" type="input"/>
+        <pin num="4" name="GND" type="power_in"/>
+        <pin num="5" name="2IN+" type="input"/>
+        <pin num="6" name="2IN-" type="input"/>
+        <pin num="7" name="2OUT" type="output"/>
+        <pin num="8" name="VCC" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="Mechanical" part="MountingHole">
+      <description>Mounting Hole without connection</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>MountingHole*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">H</field>
+        <field name="Value">MountingHole</field>
+      </fields>
+    </libpart>
+    <libpart lib="TCRT5000" part="TCRT5000">
+      <description>VISHAY - TCRT5000. - SENSOR, OPTICAL, TRANSISTOR O/P</description>
+      <docs>http://www.vishay.com/docs/83760/tcrt5000.pdf</docs>
+      <fields>
+        <field name="Reference">Q</field>
+        <field name="Value">TCRT5000</field>
+        <field name="Footprint">TCRT5000</field>
+        <field name="Datasheet">http://www.vishay.com/docs/83760/tcrt5000.pdf</field>
+        <field name="Description">VISHAY - TCRT5000. - SENSOR, OPTICAL, TRANSISTOR O/P</field>
+        <field name="Height">6.8</field>
+        <field name="Manufacturer_Name">Vishay</field>
+        <field name="Manufacturer_Part_Number">TCRT5000</field>
+        <field name="Mouser Part Number">782-TCRT5000</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/Vishay-Semiconductors/TCRT5000?qs=glpcD2KT6uaaYldHGIIt5g%3D%3D</field>
+        <field name="RS Part Number">7085017P</field>
+        <field name="RS Price/Stock">http://uk.rs-online.com/web/p/products/7085017P</field>
+        <field name="Allied_Number">R1084611</field>
+        <field name="Allied Price/Stock">http://www.alliedelec.com/vishay-dale-tcrt5000/R1084611/</field>
+      </fields>
+      <pins>
+        <pin num="1" name="C" type="unspc"/>
+        <pin num="2" name="E" type="unspc"/>
+        <pin num="3" name="K" type="unspc"/>
+        <pin num="4" name="A" type="unspc"/>
+      </pins>
+    </libpart>
+    <libpart lib="TS53YL_10K" part="TS53YL_10K_20%TR">
+      <description>Trimmer Resistors - SMD TS53YL103MR10</description>
+      <docs>https://www.vishay.com/doc?51008</docs>
+      <fields>
+        <field name="Reference">VR</field>
+        <field name="Value">TS53YL_10K_20%TR</field>
+        <field name="Footprint">TS53YL204MR10</field>
+        <field name="Datasheet">https://www.vishay.com/doc?51008</field>
+        <field name="Description">Trimmer Resistors - SMD TS53YL103MR10</field>
+        <field name="Height">2</field>
+        <field name="Manufacturer_Name">Vishay</field>
+        <field name="Manufacturer_Part_Number">TS53YL 10K 20%TR</field>
+        <field name="Arrow Part Number">TS53YL 10K 20%TR</field>
+        <field name="Mouser Part Number">75-TS53YL10K20%TR</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/Vishay-Sprague/TS53YL-10K-20TR?qs=fbr3QJcAB6rQumgcAWaZQw%3D%3D</field>
+      </fields>
+      <pins>
+        <pin num="A1" name="CCW" type="passive"/>
+        <pin num="B1" name="WIPER" type="passive"/>
+        <pin num="C1" name="CW" type="passive"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="Connector">
+      <uri>E:\KiCad\share\kicad\library/Connector.lib</uri>
+    </library>
+    <library logical="Device">
+      <uri>E:\KiCad\share\kicad\library/Device.lib</uri>
+    </library>
+    <library logical="LM393DR">
+      <uri>C:\Users\Informatic0re\Documents\workspace\ir-detector\sensor/components/LM393DR/KiCad/LM393DR.lib</uri>
+    </library>
+    <library logical="Mechanical">
+      <uri>E:\KiCad\share\kicad\library/Mechanical.lib</uri>
+    </library>
+    <library logical="TCRT5000">
+      <uri>C:\Users\Informatic0re\Documents\workspace\ir-detector\sensor/components/TCRT5000/KiCad/TCRT5000.lib</uri>
+    </library>
+    <library logical="TS53YL_10K">
+      <uri>C:\Users\Informatic0re\Documents\workspace\ir-detector\sensor/components/TS53YL_10K/KiCad/TS53YL_10K.lib</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="GND">
+      <node ref="J1" pin="2"/>
+      <node ref="D2" pin="1"/>
+      <node ref="VR1" pin="A1"/>
+      <node ref="Q1" pin="2"/>
+      <node ref="Q1" pin="3"/>
+      <node ref="C2" pin="2"/>
+      <node ref="IC1" pin="4"/>
+      <node ref="C1" pin="2"/>
+    </net>
+    <net code="2" name="Net-(C2-Pad1)">
+      <node ref="C2" pin="1"/>
+      <node ref="VR1" pin="B1"/>
+      <node ref="IC1" pin="2"/>
+    </net>
+    <net code="3" name="Net-(IC1-Pad5)">
+      <node ref="IC1" pin="5"/>
+    </net>
+    <net code="4" name="Net-(IC1-Pad6)">
+      <node ref="IC1" pin="6"/>
+    </net>
+    <net code="5" name="Net-(IC1-Pad7)">
+      <node ref="IC1" pin="7"/>
+    </net>
+    <net code="6" name="5V">
+      <node ref="R1" pin="2"/>
+      <node ref="R2" pin="2"/>
+      <node ref="R5" pin="1"/>
+      <node ref="R4" pin="1"/>
+      <node ref="R6" pin="1"/>
+      <node ref="IC1" pin="8"/>
+      <node ref="J1" pin="1"/>
+      <node ref="R3" pin="1"/>
+    </net>
+    <net code="7" name="Net-(Q1-Pad4)">
+      <node ref="Q1" pin="4"/>
+      <node ref="R1" pin="1"/>
+    </net>
+    <net code="8" name="AO">
+      <node ref="IC1" pin="3"/>
+      <node ref="TP1" pin="1"/>
+      <node ref="R2" pin="1"/>
+      <node ref="Q1" pin="1"/>
+    </net>
+    <net code="9" name="DO">
+      <node ref="C1" pin="1"/>
+      <node ref="IC1" pin="1"/>
+      <node ref="J1" pin="3"/>
+      <node ref="D1" pin="1"/>
+      <node ref="R4" pin="2"/>
+    </net>
+    <net code="10" name="Net-(D1-Pad2)">
+      <node ref="D1" pin="2"/>
+      <node ref="R5" pin="2"/>
+    </net>
+    <net code="11" name="Net-(R3-Pad2)">
+      <node ref="VR1" pin="C1"/>
+      <node ref="R3" pin="2"/>
+    </net>
+    <net code="12" name="Net-(D2-Pad2)">
+      <node ref="D2" pin="2"/>
+      <node ref="R6" pin="2"/>
+    </net>
+  </nets>
+</export>

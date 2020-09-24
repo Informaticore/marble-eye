@@ -1,0 +1,7 @@
+(fp_lib_table
+  (lib (name TCRT5000)(type Legacy)(uri ${KIPRJMOD}/components/TCRT5000/KiCad/TCRT5000.mod)(options "")(descr ""))
+  (lib (name ir-detector)(type KiCad)(uri ${KIPRJMOD}/ir-detector.pretty)(options "")(descr ""))
+  (lib (name TS53YL_10K)(type Legacy)(uri ${KIPRJMOD}/components/TS53YL_10K/KiCad/TS53YL_10K.mod)(options "")(descr ""))
+  (lib (name LM393DR)(type Legacy)(uri ${KIPRJMOD}/components/LM393DR/KiCad/LM393DR.mod)(options "")(descr ""))
+  (lib (name S4B-EH_LF__SN_)(type Legacy)(uri ${KIPRJMOD}/components/S4B-EH_LF__SN_/KiCad/S4B-EH_LF__SN_.mod)(options "")(descr ""))
+)

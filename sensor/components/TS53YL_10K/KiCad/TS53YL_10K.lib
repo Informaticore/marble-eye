@@ -1,0 +1,26 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#SamacSys ECAD Model TS53YL_10K_20%TR
+#/624912/130768/2.46/3/4/Variable Resistor
+DEF TS53YL_10K_20%TR VR 0 30 Y Y 1 F N
+F0 "VR" 950 300 50 H V L CNN
+F1 "TS53YL_10K_20%TR" 950 200 50 H V L CNN
+F2 "TS53YL204MR10" 950 100 50 H I L CNN
+F3 "https://www.vishay.com/doc?51008" 950 0 50 H I L CNN
+F4 "Trimmer Resistors - SMD TS53YL103MR10" 950 -100 50 H I L CNN "Description"
+F5 "2" 950 -200 50 H I L CNN "Height"
+F6 "Vishay" 950 -300 50 H I L CNN "Manufacturer_Name"
+F7 "TS53YL 10K 20%TR" 950 -400 50 H I L CNN "Manufacturer_Part_Number"
+F8 "TS53YL 10K 20%TR" 950 -500 50 H I L CNN "Arrow Part Number"
+F9 "" 950 -600 50 H I L CNN "Arrow Price/Stock"
+F10 "75-TS53YL10K20%TR" 950 -700 50 H I L CNN "Mouser Part Number"
+F11 "https://www.mouser.co.uk/ProductDetail/Vishay-Sprague/TS53YL-10K-20TR?qs=fbr3QJcAB6rQumgcAWaZQw%3D%3D" 950 -800 50 H I L CNN "Mouser Price/Stock"
+DRAW
+X CCW A1 0 -100 200 R 50 50 0 0 P
+X WIPER B1 1100 0 200 L 50 50 0 0 P
+X CW C1 0 0 200 R 50 50 0 0 P
+P 5 0 1 6 200 100 900 100 900 -200 200 -200 200 100 N
+ENDDRAW
+ENDDEF
+#
+#End Library
